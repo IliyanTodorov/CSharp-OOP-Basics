@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\bin\Debug\netcoreapp2.1\04. OpinionPoll.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\bin\Debug\netcoreapp2.1\04. OpinionPoll.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\bin\Debug\netcoreapp2.1\04. OpinionPoll.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\bin\Debug\netcoreapp2.1\04. OpinionPoll.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\bin\Debug\netcoreapp2.1\04. OpinionPoll.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\obj\Debug\netcoreapp2.1\04. OpinionPoll.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\obj\Debug\netcoreapp2.1\04. OpinionPoll.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\obj\Debug\netcoreapp2.1\04. OpinionPoll.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\obj\Debug\netcoreapp2.1\04. OpinionPoll.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\04. OpinionPoll\obj\Debug\netcoreapp2.1\04. OpinionPoll.pdb

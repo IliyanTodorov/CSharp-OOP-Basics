@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\bin\Debug\netcoreapp2.1\08. RawData.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\bin\Debug\netcoreapp2.1\08. RawData.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\bin\Debug\netcoreapp2.1\08. RawData.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\bin\Debug\netcoreapp2.1\08. RawData.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\bin\Debug\netcoreapp2.1\08. RawData.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\08. RawData\obj\Debug\netcoreapp2.1\08. RawData.pdb

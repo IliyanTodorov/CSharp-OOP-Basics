@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\bin\Debug\netcoreapp2.1\06. CompanyRoster.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\bin\Debug\netcoreapp2.1\06. CompanyRoster.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\bin\Debug\netcoreapp2.1\06. CompanyRoster.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\bin\Debug\netcoreapp2.1\06. CompanyRoster.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\bin\Debug\netcoreapp2.1\06. CompanyRoster.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\06. CompanyRoster\obj\Debug\netcoreapp2.1\06. CompanyRoster.pdb

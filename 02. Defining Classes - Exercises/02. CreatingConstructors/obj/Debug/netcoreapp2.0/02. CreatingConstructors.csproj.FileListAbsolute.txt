@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\bin\Debug\netcoreapp2.0\02. CreatingConstructors.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\bin\Debug\netcoreapp2.0\02. CreatingConstructors.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\bin\Debug\netcoreapp2.0\02. CreatingConstructors.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\bin\Debug\netcoreapp2.0\02. CreatingConstructors.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\bin\Debug\netcoreapp2.0\02. CreatingConstructors.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\02. CreatingConstructors\obj\Debug\netcoreapp2.0\02. CreatingConstructors.pdb

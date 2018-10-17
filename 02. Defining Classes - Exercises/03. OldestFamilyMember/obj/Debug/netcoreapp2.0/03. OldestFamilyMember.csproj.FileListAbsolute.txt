@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\bin\Debug\netcoreapp2.0\03. OldestFamilyMember.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\bin\Debug\netcoreapp2.0\03. OldestFamilyMember.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\bin\Debug\netcoreapp2.0\03. OldestFamilyMember.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\bin\Debug\netcoreapp2.0\03. OldestFamilyMember.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\bin\Debug\netcoreapp2.0\03. OldestFamilyMember.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\obj\Debug\netcoreapp2.0\03. OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\obj\Debug\netcoreapp2.0\03. OldestFamilyMember.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\obj\Debug\netcoreapp2.0\03. OldestFamilyMember.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\obj\Debug\netcoreapp2.0\03. OldestFamilyMember.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\03. OldestFamilyMember\obj\Debug\netcoreapp2.0\03. OldestFamilyMember.pdb
