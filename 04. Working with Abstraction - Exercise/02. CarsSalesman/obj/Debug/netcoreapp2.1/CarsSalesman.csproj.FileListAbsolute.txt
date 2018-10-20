@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\bin\Debug\netcoreapp2.1\CarsSalesman.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\bin\Debug\netcoreapp2.1\CarsSalesman.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\bin\Debug\netcoreapp2.1\CarsSalesman.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\bin\Debug\netcoreapp2.1\CarsSalesman.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\bin\Debug\netcoreapp2.1\CarsSalesman.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working with Abstraction - Exercise\CarsSalesman\obj\Debug\netcoreapp2.1\CarsSalesman.pdb
