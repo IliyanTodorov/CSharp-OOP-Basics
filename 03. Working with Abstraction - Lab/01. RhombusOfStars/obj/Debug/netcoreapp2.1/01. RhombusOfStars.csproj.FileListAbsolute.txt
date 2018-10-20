@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\bin\Debug\netcoreapp2.1\01. RhombusOfStars.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\bin\Debug\netcoreapp2.1\01. RhombusOfStars.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\bin\Debug\netcoreapp2.1\01. RhombusOfStars.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\bin\Debug\netcoreapp2.1\01. RhombusOfStars.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\bin\Debug\netcoreapp2.1\01. RhombusOfStars.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\01. RhombusOfStars\obj\Debug\netcoreapp2.1\01. RhombusOfStars.csprojAssemblyReference.cache

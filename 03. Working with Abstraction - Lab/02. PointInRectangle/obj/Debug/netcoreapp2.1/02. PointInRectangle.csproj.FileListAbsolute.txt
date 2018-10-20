@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\bin\Debug\netcoreapp2.1\02. PointInRectangle.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\03. Working with Abstraction - Lab\02. PointInRectangle\obj\Debug\netcoreapp2.1\02. PointInRectangle.pdb
