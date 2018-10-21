@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.pdb

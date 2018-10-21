@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\bin\Debug\netcoreapp2.1\Sneaking.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\04. Working With Abstraction - Exercise\Sneaking\obj\Debug\netcoreapp2.1\Sneaking.pdb
