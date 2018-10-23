@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.deps.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.runtimeconfig.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.pdb
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.pdb

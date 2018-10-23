@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.deps.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.runtimeconfig.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\bin\Debug\netcoreapp2.1\04. Team.pdb
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\04. Team\obj\Debug\netcoreapp2.1\04. Team.pdb

@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.deps.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.runtimeconfig.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.pdb
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.dll
+C:\Users\ADMIN\source\repos\05. Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.pdb
