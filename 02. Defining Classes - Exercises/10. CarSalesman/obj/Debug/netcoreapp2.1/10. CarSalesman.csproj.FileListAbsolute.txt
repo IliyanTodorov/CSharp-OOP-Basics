@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\bin\Debug\netcoreapp2.1\10. CarSalesman.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\bin\Debug\netcoreapp2.1\10. CarSalesman.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\bin\Debug\netcoreapp2.1\10. CarSalesman.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\bin\Debug\netcoreapp2.1\10. CarSalesman.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\bin\Debug\netcoreapp2.1\10. CarSalesman.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\obj\Debug\netcoreapp2.1\10. CarSalesman.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\obj\Debug\netcoreapp2.1\10. CarSalesman.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\obj\Debug\netcoreapp2.1\10. CarSalesman.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\obj\Debug\netcoreapp2.1\10. CarSalesman.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\02. Defining Classes - Exercises\10. CarSalesman\obj\Debug\netcoreapp2.1\10. CarSalesman.pdb
