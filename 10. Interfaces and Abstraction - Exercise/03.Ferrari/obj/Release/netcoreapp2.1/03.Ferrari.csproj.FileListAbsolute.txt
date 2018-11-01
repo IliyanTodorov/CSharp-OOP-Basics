@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\bin\Release\netcoreapp2.1\03.Ferrari.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\bin\Release\netcoreapp2.1\03.Ferrari.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\bin\Release\netcoreapp2.1\03.Ferrari.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\bin\Release\netcoreapp2.1\03.Ferrari.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\bin\Release\netcoreapp2.1\03.Ferrari.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\03.Ferrari\obj\Release\netcoreapp2.1\03.Ferrari.pdb

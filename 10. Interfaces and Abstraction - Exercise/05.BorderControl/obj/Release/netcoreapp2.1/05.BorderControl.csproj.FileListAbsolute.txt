@@ -1,0 +1,10 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\bin\Release\netcoreapp2.1\05.BorderControl.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\bin\Release\netcoreapp2.1\05.BorderControl.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\bin\Release\netcoreapp2.1\05.BorderControl.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\bin\Release\netcoreapp2.1\05.BorderControl.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\bin\Release\netcoreapp2.1\05.BorderControl.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\obj\Release\netcoreapp2.1\05.BorderControl.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\obj\Release\netcoreapp2.1\05.BorderControl.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\obj\Release\netcoreapp2.1\05.BorderControl.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\obj\Release\netcoreapp2.1\05.BorderControl.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\05.BorderControl\obj\Release\netcoreapp2.1\05.BorderControl.pdb

@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Release\netcoreapp2.1\02.MultipleImplementation.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Release\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Release\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Release\netcoreapp2.1\02.MultipleImplementation.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Release\netcoreapp2.1\02.MultipleImplementation.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\10. Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Release\netcoreapp2.1\02.MultipleImplementation.pdb
