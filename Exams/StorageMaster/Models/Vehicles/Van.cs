@@ -4,7 +4,7 @@
     {
         private const int CAPACITY = 2;
 
-        public Van(int capacity) : base(CAPACITY)
+        public Van() : base(CAPACITY)
         {
         }
     }

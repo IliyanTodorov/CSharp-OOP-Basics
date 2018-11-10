@@ -4,7 +4,7 @@
     {
         private const int CAPACITY = 5;
 
-        public Truck(int capacity) : base(CAPACITY)
+        public Truck() : base(CAPACITY)
         {
         }
     }
