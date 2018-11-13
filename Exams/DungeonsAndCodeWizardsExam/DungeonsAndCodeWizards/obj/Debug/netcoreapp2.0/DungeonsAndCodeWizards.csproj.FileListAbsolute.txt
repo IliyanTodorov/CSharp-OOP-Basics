@@ -1,0 +1,11 @@
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojAssemblyReference.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Projects\SoftUni\CSharp-OOP-Basics\Exams\DungeonsAndCodeWizardsExam\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb

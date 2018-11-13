@@ -178,4 +178,3 @@ public class DungeonMaster
         return lastSurvivorRounds > 1;
     }
 }
-
