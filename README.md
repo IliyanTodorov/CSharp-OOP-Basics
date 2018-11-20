@@ -1,2 +1,2 @@
 # CSharp-OOP-Basics
-C# OOP Basics - October 2018
+C# Fundamentals: C# OOP Bascis - September 2018 @SoftUni
